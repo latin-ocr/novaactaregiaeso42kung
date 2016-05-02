@@ -1,0 +1,54 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<!DOCTYPE html PUBLIC "-//W3C//DTD XHTML 1.0 Transitional//EN"
+    "http://www.w3.org/TR/xhtml1/DTD/xhtml1-transitional.dtd">
+<html xmlns="http://www.w3.org/1999/xhtml" xml:lang="en" lang="en">
+ <head>
+  <title>
+</title>
+<meta http-equiv="Content-Type" content="text/html;charset=utf-8" />
+  <meta name='ocr-system' content='tesseract 3.04.00' />
+  <meta name='ocr-capabilities' content='ocr_page ocr_carea ocr_par ocr_line ocrx_word'/>
+</head>
+<body>
+  <div class='ocr_page' id='page_1' title='image "./novaactaregiaeso42kung_0325.png"; bbox 0 0 2069 3013; ppageno 0'>
+   <div class='ocr_carea' id='block_1_1' title="bbox 285 135 1808 224">
+    <p class='ocr_par' dir='ltr' id='par_1_1' title="bbox 285 135 1808 224">
+     <span class='ocr_line' id='line_1_1' title="bbox 285 135 1808 172; baseline -0.001 -1"><span class='ocrx_word' id='word_1_1' title='bbox 285 135 423 171; x_wconf 73' lang='lat' dir='ltr'><strong>NOVA</strong></span> <span class='ocrx_word' id='word_1_2' title='bbox 450 135 584 172; x_wconf 76' lang='lat' dir='ltr'><strong>ACTA</strong></span> <span class='ocrx_word' id='word_1_3' title='bbox 612 135 770 171; x_wconf 44' lang='lat' dir='ltr'>REGI-‘E</span> <span class='ocrx_word' id='word_1_4' title='bbox 801 135 1086 171; x_wconf 75' lang='lat' dir='ltr'>SOCIETATIS</span> <span class='ocrx_word' id='word_1_5' title='bbox 1117 135 1451 172; x_wconf 70' lang='lat' dir='ltr'>SCIENTIARUM</span> <span class='ocrx_word' id='word_1_6' title='bbox 1480 136 1808 172; x_wconf 76' lang='lat' dir='ltr'>UPSALIENSIS.</span> 
+     </span>
+     <span class='ocr_line' id='line_1_2' title="bbox 1044 205 1269 224; baseline -0.004 0"><span class='ocrx_word' id='word_1_7' title='bbox 1044 205 1053 208; x_wconf 16' lang='grc' dir='ltr'>ἡ</span> <span class='ocrx_word' id='word_1_8' title='bbox 1121 206 1137 224; x_wconf 63' lang='lat'>0</span> <span class='ocrx_word' id='word_1_9' title='bbox 1199 214 1200 217; x_wconf 69' lang='lat'><em>=</em></span> <span class='ocrx_word' id='word_1_10' title='bbox 1259 206 1269 223; x_wconf 79' lang='lat' dir='ltr'><em>l</em></span> 
+     </span>
+    </p>
+   </div>
+   <div class='ocr_carea' id='block_1_2' title="bbox 727 704 1341 787">
+    <p class='ocr_par' dir='ltr' id='par_1_2' title="bbox 727 704 1341 787">
+     <span class='ocr_line' id='line_1_3' title="bbox 727 704 1341 787; baseline 0.003 -2"><span class='ocrx_word' id='word_1_11' title='bbox 727 704 1341 787; x_wconf 71' lang='lat' dir='ltr'>RECHERCHES</span> 
+     </span>
+    </p>
+   </div>
+   <div class='ocr_carea' id='block_1_3' title="bbox 925 923 1198 978">
+    <p class='ocr_par' dir='ltr' id='par_1_3' title="bbox 925 923 1198 978">
+     <span class='ocr_line' id='line_1_4' title="bbox 925 923 1198 978; baseline -0.004 0"><span class='ocrx_word' id='word_1_12' title='bbox 925 923 1047 978; x_wconf 74' lang='lat' dir='ltr'>SUR</span> <span class='ocrx_word' id='word_1_13' title='bbox 1086 923 1198 978; x_wconf 77' lang='lat' dir='ltr'>LES</span> 
+     </span>
+    </p>
+   </div>
+   <div class='ocr_carea' id='block_1_4' title="bbox 285 1107 1791 1209">
+    <p class='ocr_par' dir='ltr' id='par_1_4' title="bbox 285 1107 1791 1209">
+     <span class='ocr_line' id='line_1_5' title="bbox 285 1107 1791 1209; baseline 0.002 -3"><span class='ocrx_word' id='word_1_14' title='bbox 285 1124 770 1206; x_wconf 69' lang='lat' dir='ltr'>COULEURS</span> <span class='ocrx_word' id='word_1_15' title='bbox 833 1124 1002 1206; x_wconf 74' lang='lat' dir='ltr'>DES</span> <span class='ocrx_word' id='word_1_16' title='bbox 1066 1107 1453 1207; x_wconf 74' lang='lat' dir='ltr'>ETOILES</span> <span class='ocrx_word' id='word_1_17' title='bbox 1516 1126 1791 1209; x_wconf 74' lang='lat' dir='ltr'><strong>FIXES</strong></span> 
+     </span>
+    </p>
+   </div>
+   <div class='ocr_carea' id='block_1_5' title="bbox 725 1651 1326 1691">
+    <p class='ocr_par' dir='ltr' id='par_1_5' title="bbox 725 1651 1326 1691">
+     <span class='ocr_line' id='line_1_6' title="bbox 725 1651 1326 1691; baseline -0.002 0"><span class='ocrx_word' id='word_1_18' title='bbox 725 1651 909 1691; x_wconf 77' lang='lat' dir='ltr'>OSTEN</span> <span class='ocrx_word' id='word_1_19' title='bbox 935 1658 1326 1690; x_wconf 82' lang='lat' dir='ltr'><strong>BERGSTRAND</strong></span> 
+     </span>
+    </p>
+   </div>
+   <div class='ocr_carea' id='block_1_6' title="bbox 950 2431 1123 2460">
+    <p class='ocr_par' dir='ltr' id='par_1_6' title="bbox 950 2431 1123 2460">
+     <span class='ocr_line' id='line_1_7' title="bbox 950 2431 1123 2460; baseline 0.006 -1"><span class='ocrx_word' id='word_1_20' title='bbox 950 2431 1123 2460; x_wconf 72' lang='lat' dir='ltr'>UPSALA</span> 
+     </span>
+    </p>
+   </div>
+  </div>
+ </body>
+</html>

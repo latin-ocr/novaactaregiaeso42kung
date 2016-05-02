@@ -1,0 +1,36 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<!DOCTYPE html PUBLIC "-//W3C//DTD XHTML 1.0 Transitional//EN"
+    "http://www.w3.org/TR/xhtml1/DTD/xhtml1-transitional.dtd">
+<html xmlns="http://www.w3.org/1999/xhtml" xml:lang="en" lang="en">
+ <head>
+  <title>
+</title>
+<meta http-equiv="Content-Type" content="text/html;charset=utf-8" />
+  <meta name='ocr-system' content='tesseract 3.04.00' />
+  <meta name='ocr-capabilities' content='ocr_page ocr_carea ocr_par ocr_line ocrx_word'/>
+</head>
+<body>
+  <div class='ocr_page' id='page_1' title='image "./novaactaregiaeso42kung_0521.png"; bbox 0 0 2069 3013; ppageno 0'>
+   <div class='ocr_carea' id='block_1_1' title="bbox 213 143 1837 183">
+    <p class='ocr_par' dir='ltr' id='par_1_1' title="bbox 213 143 1837 183">
+     <span class='ocr_line' id='line_1_1' title="bbox 213 143 1837 183; baseline 0.003 -10"><span class='ocrx_word' id='word_1_1' title='bbox 213 143 306 174; x_wconf 82' lang='lat' dir='ltr'>Nova</span> <span class='ocrx_word' id='word_1_2' title='bbox 329 143 412 173; x_wconf 81' lang='lat' dir='ltr'>Acta</span> <span class='ocrx_word' id='word_1_3' title='bbox 436 143 516 182; x_wconf 82' lang='lat' dir='ltr'><strong>Reg.</strong></span> <span class='ocrx_word' id='word_1_4' title='bbox 541 143 612 174; x_wconf 77' lang='lat' dir='ltr'>Soc.</span> <span class='ocrx_word' id='word_1_5' title='bbox 638 143 698 174; x_wconf 55' lang='lat' dir='ltr'>Sec</span> <span class='ocrx_word' id='word_1_6' title='bbox 714 144 789 183; x_wconf 75' lang='lat' dir='ltr'>Ups.</span> <span class='ocrx_word' id='word_1_7' title='bbox 815 144 881 175; x_wconf 81' lang='lat' dir='ltr'>Ser.</span> <span class='ocrx_word' id='word_1_8' title='bbox 909 145 958 174; x_wconf 74' lang='lat' dir='ltr'>lv.</span> <span class='ocrx_word' id='word_1_9' title='bbox 986 145 1052 175; x_wconf 81' lang='lat' dir='ltr'>Vol.</span> <span class='ocrx_word' id='word_1_10' title='bbox 1078 146 1106 175; x_wconf 67' lang='grc'>2.</span> <span class='ocrx_word' id='word_1_11' title='bbox 1132 145 1170 176; x_wconf 91' lang='grc' dir='ltr'>Ν.</span> <span class='ocrx_word' id='word_1_12' title='bbox 1197 146 1225 176; x_wconf 86' lang='grc'>7.</span> <span class='ocrx_word' id='word_1_13' title='bbox 1693 148 1781 178; x_wconf 75' lang='lat' dir='ltr'>Tafel</span> <span class='ocrx_word' id='word_1_14' title='bbox 1808 149 1837 179; x_wconf 67' lang='lat'>4.</span> 
+     </span>
+    </p>
+   </div>
+   <div class='ocr_carea' id='block_1_2' title="bbox 300 285 1677 392">
+    <p class='ocr_par' dir='ltr' id='par_1_2' title="bbox 300 285 1677 392">
+     <span class='ocr_line' id='line_1_2' title="bbox 300 285 1677 326; baseline 0.005 -10"><span class='ocrx_word' id='word_1_15' title='bbox 300 313 304 314; x_wconf 15' lang='grc' dir='ltr'><em>γ</em></span> <span class='ocrx_word' id='word_1_16' title='bbox 363 285 453 318; x_wconf 69' lang='lat' dir='ltr'>DIE</span> <span class='ocrx_word' id='word_1_17' title='bbox 487 285 801 320; x_wconf 67' lang='grc' dir='ltr'>νΙΞΗΤΕΙΙ-ΟΝΘ</span> <span class='ocrx_word' id='word_1_18' title='bbox 843 287 937 319; x_wconf 67' lang='lat' dir='ltr'>DER</span> <span class='ocrx_word' id='word_1_19' title='bbox 977 287 1268 326; x_wconf 73' lang='grc' dir='ltr'>ΙΝΞΟΙ-ΑΤΙΟΝ</span> <span class='ocrx_word' id='word_1_20' title='bbox 1313 289 1356 321; x_wconf 90' lang='grc' dir='ltr'>ΙΝ</span> <span class='ocrx_word' id='word_1_21' title='bbox 1395 290 1677 323; x_wconf 74' lang='lat' dir='ltr'>SCHWEDEN</span> 
+     </span>
+     <span class='ocr_line' id='line_1_3' title="bbox 695 347 1353 392; baseline 0.005 -13"><span class='ocrx_word' id='word_1_22' title='bbox 695 347 1074 392; x_wconf 65' lang='lat' dir='ltr'>April—September,</span> <span class='ocrx_word' id='word_1_23' title='bbox 1098 348 1353 382; x_wconf 73' lang='lat'>1896—1905.</span> 
+     </span>
+    </p>
+   </div>
+   <div class='ocr_carea' id='block_1_3' title="bbox 563 501 1504 2431">
+    <p class='ocr_par' dir='ltr' id='par_1_3' title="bbox 563 501 1504 2431">
+     <span class='ocr_line' id='line_1_4' title="bbox 563 501 1504 2431; baseline 0 0"><span class='ocrx_word' id='word_1_24' title='bbox 563 501 1504 2431; x_wconf 95' lang='lat' dir='ltr'> </span> 
+     </span>
+    </p>
+   </div>
+  </div>
+ </body>
+</html>

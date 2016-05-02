@@ -1,0 +1,42 @@
+sz LE CALCUL DE LA REFRACTION DIFFERENTIELLE. 29
+
+IV.
+Doscription des tables.
+
+L’anglo (16 position observo, ρο, et la distance„ 5„ ainsi quo 165
+6161116015 motoorologiques, t et b = Β- 760“”“·, sont (10111165. La pros-
+sion baromotrique est supposoe re'duito au niveam de Ia mer ot ὲ la
+latitudo (16 45⁰, ot corrigoe pour la temporatffl‘e du morouro et pour
+l’humidito. Ensuite 165 doolinaisons, (51, (52. 165 (115ῒῆ11665 261111113165,
+ζ17 ξε, et, 165 angles parallaotiques„ χμ >sm des positions vraies des
+deux otoiles sont Gonnus d'uno mansore plus ou moins approohoe.
+Posons enfin:
+
+ 
+
+ 
+
+(χι 1Ζ21·
+
+Νο5 formules pour 165 corrections de rofraetion 611 anglo (16 position
+ot 611 distance sont:
+
+πο - ΡΟ = W ÷ Ρ15111 2 {Po—XO) -ἐ- P2 sin 4 (Po — χο) τ A
+
+ 
+
+ 
+
+ι σ S- 8 = W' ÷ Sl oos² (po — xo) ὲ S2 eos4 (ρο - 210j÷ A' ‚
+
+011 σ, s et sso-Po sont exprimos on secondes d'aro.
+Lo oaloul des quantitos W, W', Pl, Sl , ΡἩ Sa 56 fait de la
+
+manioro suivante.
+D'abord‚ la temporamre t stant transformoe 611 r au moyen do
+
+la table VII⁷ on aura la valeur de β, pour 11116 distance zonithalo quol—
+oonque < 80⁰ 7 suivant la formula
+
+β ² βο ἦ βι *f 131* 15«ss-
+
